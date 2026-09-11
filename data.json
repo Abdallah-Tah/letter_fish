@@ -1,0 +1,488 @@
+{
+ "ar": [
+  {
+   "letter": "ا",
+   "name": "ألف",
+   "word": "أسد",
+   "say": "ألف"
+  },
+  {
+   "letter": "ب",
+   "name": "باء",
+   "word": "بيت",
+   "say": "باء"
+  },
+  {
+   "letter": "ت",
+   "name": "تاء",
+   "word": "تفاحة",
+   "say": "تاء"
+  },
+  {
+   "letter": "ث",
+   "name": "ثاء",
+   "word": "ثعلب",
+   "say": "ثاء"
+  },
+  {
+   "letter": "ج",
+   "name": "جيم",
+   "word": "جمل",
+   "say": "جيم"
+  },
+  {
+   "letter": "ح",
+   "name": "حاء",
+   "word": "حصان",
+   "say": "حاء"
+  },
+  {
+   "letter": "خ",
+   "name": "خاء",
+   "word": "خبز",
+   "say": "خاء"
+  },
+  {
+   "letter": "د",
+   "name": "دال",
+   "word": "دجاجة",
+   "say": "دال"
+  },
+  {
+   "letter": "ذ",
+   "name": "ذال",
+   "word": "ذئب",
+   "say": "ذال"
+  },
+  {
+   "letter": "ر",
+   "name": "راء",
+   "word": "رمان",
+   "say": "راء"
+  },
+  {
+   "letter": "ز",
+   "name": "زاي",
+   "word": "زهرة",
+   "say": "زاي"
+  },
+  {
+   "letter": "س",
+   "name": "سين",
+   "word": "سمكة",
+   "say": "سين"
+  },
+  {
+   "letter": "ش",
+   "name": "شين",
+   "word": "شمس",
+   "say": "شين"
+  },
+  {
+   "letter": "ص",
+   "name": "صاد",
+   "word": "صقر",
+   "say": "صاد"
+  },
+  {
+   "letter": "ض",
+   "name": "ضاد",
+   "word": "ضفدع",
+   "say": "ضاد"
+  },
+  {
+   "letter": "ط",
+   "name": "طاء",
+   "word": "طائرة",
+   "say": "طاء"
+  },
+  {
+   "letter": "ظ",
+   "name": "ظاء",
+   "word": "ظرف",
+   "say": "ظاء"
+  },
+  {
+   "letter": "ع",
+   "name": "عين",
+   "word": "عصفور",
+   "say": "عين"
+  },
+  {
+   "letter": "غ",
+   "name": "غين",
+   "word": "غزال",
+   "say": "غين"
+  },
+  {
+   "letter": "ف",
+   "name": "فاء",
+   "word": "فراشة",
+   "say": "فاء"
+  },
+  {
+   "letter": "ق",
+   "name": "قاف",
+   "word": "قمر",
+   "say": "قاف"
+  },
+  {
+   "letter": "ك",
+   "name": "كاف",
+   "word": "كتاب",
+   "say": "كاف"
+  },
+  {
+   "letter": "ل",
+   "name": "لام",
+   "word": "ليمون",
+   "say": "لام"
+  },
+  {
+   "letter": "م",
+   "name": "ميم",
+   "word": "موز",
+   "say": "ميم"
+  },
+  {
+   "letter": "ن",
+   "name": "نون",
+   "word": "نجم",
+   "say": "نون"
+  },
+  {
+   "letter": "ه",
+   "name": "هاء",
+   "word": "هلال",
+   "say": "هاء"
+  },
+  {
+   "letter": "و",
+   "name": "واو",
+   "word": "وردة",
+   "say": "واو"
+  },
+  {
+   "letter": "ي",
+   "name": "ياء",
+   "word": "يد",
+   "say": "ياء"
+  }
+ ],
+ "en": [
+  {
+   "letter": "A",
+   "name": "A",
+   "word": "Apple",
+   "say": "A"
+  },
+  {
+   "letter": "B",
+   "name": "B",
+   "word": "Ball",
+   "say": "B"
+  },
+  {
+   "letter": "C",
+   "name": "C",
+   "word": "Cat",
+   "say": "C"
+  },
+  {
+   "letter": "D",
+   "name": "D",
+   "word": "Dog",
+   "say": "D"
+  },
+  {
+   "letter": "E",
+   "name": "E",
+   "word": "Elephant",
+   "say": "E"
+  },
+  {
+   "letter": "F",
+   "name": "F",
+   "word": "Fish",
+   "say": "F"
+  },
+  {
+   "letter": "G",
+   "name": "G",
+   "word": "Goat",
+   "say": "G"
+  },
+  {
+   "letter": "H",
+   "name": "H",
+   "word": "House",
+   "say": "H"
+  },
+  {
+   "letter": "I",
+   "name": "I",
+   "word": "Ice",
+   "say": "I"
+  },
+  {
+   "letter": "J",
+   "name": "J",
+   "word": "Juice",
+   "say": "J"
+  },
+  {
+   "letter": "K",
+   "name": "K",
+   "word": "Kite",
+   "say": "K"
+  },
+  {
+   "letter": "L",
+   "name": "L",
+   "word": "Lion",
+   "say": "L"
+  },
+  {
+   "letter": "M",
+   "name": "M",
+   "word": "Moon",
+   "say": "M"
+  },
+  {
+   "letter": "N",
+   "name": "N",
+   "word": "Nest",
+   "say": "N"
+  },
+  {
+   "letter": "O",
+   "name": "O",
+   "word": "Orange",
+   "say": "O"
+  },
+  {
+   "letter": "P",
+   "name": "P",
+   "word": "Pear",
+   "say": "P"
+  },
+  {
+   "letter": "Q",
+   "name": "Q",
+   "word": "Queen",
+   "say": "Q"
+  },
+  {
+   "letter": "R",
+   "name": "R",
+   "word": "Rabbit",
+   "say": "R"
+  },
+  {
+   "letter": "S",
+   "name": "S",
+   "word": "Sun",
+   "say": "S"
+  },
+  {
+   "letter": "T",
+   "name": "T",
+   "word": "Tree",
+   "say": "T"
+  },
+  {
+   "letter": "U",
+   "name": "U",
+   "word": "Umbrella",
+   "say": "U"
+  },
+  {
+   "letter": "V",
+   "name": "V",
+   "word": "Van",
+   "say": "V"
+  },
+  {
+   "letter": "W",
+   "name": "W",
+   "word": "Whale",
+   "say": "W"
+  },
+  {
+   "letter": "X",
+   "name": "X",
+   "word": "Xylophone",
+   "say": "X"
+  },
+  {
+   "letter": "Y",
+   "name": "Y",
+   "word": "Yacht",
+   "say": "Y"
+  },
+  {
+   "letter": "Z",
+   "name": "Z",
+   "word": "Zebra",
+   "say": "Z"
+  }
+ ],
+ "fr": [
+  {
+   "letter": "A",
+   "name": "A",
+   "word": "Avion",
+   "say": "A"
+  },
+  {
+   "letter": "B",
+   "name": "B",
+   "word": "Bateau",
+   "say": "B"
+  },
+  {
+   "letter": "C",
+   "name": "C",
+   "word": "Chat",
+   "say": "C"
+  },
+  {
+   "letter": "D",
+   "name": "D",
+   "word": "Dauphin",
+   "say": "D"
+  },
+  {
+   "letter": "E",
+   "name": "E",
+   "word": "Étoile",
+   "say": "E"
+  },
+  {
+   "letter": "F",
+   "name": "F",
+   "word": "Fleur",
+   "say": "F"
+  },
+  {
+   "letter": "G",
+   "name": "G",
+   "word": "Gâteau",
+   "say": "G"
+  },
+  {
+   "letter": "H",
+   "name": "H",
+   "word": "Hibou",
+   "say": "H"
+  },
+  {
+   "letter": "I",
+   "name": "I",
+   "word": "Île",
+   "say": "I"
+  },
+  {
+   "letter": "J",
+   "name": "J",
+   "word": "Jardin",
+   "say": "J"
+  },
+  {
+   "letter": "K",
+   "name": "K",
+   "word": "Kiwi",
+   "say": "K"
+  },
+  {
+   "letter": "L",
+   "name": "L",
+   "word": "Lune",
+   "say": "L"
+  },
+  {
+   "letter": "M",
+   "name": "M",
+   "word": "Maison",
+   "say": "M"
+  },
+  {
+   "letter": "N",
+   "name": "N",
+   "word": "Nuage",
+   "say": "N"
+  },
+  {
+   "letter": "O",
+   "name": "O",
+   "word": "Orange",
+   "say": "O"
+  },
+  {
+   "letter": "P",
+   "name": "P",
+   "word": "Poisson",
+   "say": "P"
+  },
+  {
+   "letter": "Q",
+   "name": "Q",
+   "word": "Quatre",
+   "say": "Q"
+  },
+  {
+   "letter": "R",
+   "name": "R",
+   "word": "Rose",
+   "say": "R"
+  },
+  {
+   "letter": "S",
+   "name": "S",
+   "word": "Soleil",
+   "say": "S"
+  },
+  {
+   "letter": "T",
+   "name": "T",
+   "word": "Tortue",
+   "say": "T"
+  },
+  {
+   "letter": "U",
+   "name": "U",
+   "word": "Uniforme",
+   "say": "U"
+  },
+  {
+   "letter": "V",
+   "name": "V",
+   "word": "Vélo",
+   "say": "V"
+  },
+  {
+   "letter": "W",
+   "name": "W",
+   "word": "Wagon",
+   "say": "W"
+  },
+  {
+   "letter": "X",
+   "name": "X",
+   "word": "Xylophone",
+   "say": "X"
+  },
+  {
+   "letter": "Y",
+   "name": "Y",
+   "word": "Yaourt",
+   "say": "Y"
+  },
+  {
+   "letter": "Z",
+   "name": "Z",
+   "word": "Zèbre",
+   "say": "Z"
+  }
+ ]
+}

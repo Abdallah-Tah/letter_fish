@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="ar">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#063a55"><meta name="color-scheme" content="light">
+<link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="assets/icons/icon.svg">
+<link rel="stylesheet" href="styles.css">
+<title>Letter Fishing TV</title>
+</head>
+<body>
+<main id="app">
+
+<section id="home" class="screen active">
+  <div class="sky" aria-hidden="true">
+    <div class="sun"></div><div class="cloud c1"></div><div class="cloud c2"></div>
+    <div class="seabed"></div>
+    <div class="weed"></div><div class="weed"></div><div class="weed"></div><div class="weed"></div>
+    <div class="bubble b1"></div><div class="bubble b2"></div><div class="bubble b3"></div>
+  </div>
+  <div class="panel home-panel">
+    <div class="home-copy">
+      <div class="eyebrow">LETTER FISHING · TV</div>
+      <h1 id="homeTitle">Letter Fishing</h1>
+      <p id="subtitle" class="subtitle">Listen • Catch • Learn</p>
+      <div id="languageRow" class="language-row" aria-label="Choose language">
+        <button data-lang="ar" class="lang selected">العربية</button>
+        <button data-lang="en" class="lang">English</button>
+        <button data-lang="fr" class="lang">Français</button>
+      </div>
+      <div class="btn-row">
+        <button id="playBtn" class="primary">▶ Play</button>
+        <button id="soundBtn" class="secondary">♪ Voice</button>
+        <button id="musicBtn" class="secondary">♫ Music</button>
+      </div>
+      <p id="homeHint" class="hint">TV remote: ← → choose • OK catch • ↑ repeat • Back home</p>
+    </div>
+    <div class="mascot" aria-hidden="true">
+      <div class="mascot-tail"></div>
+      <div class="mascot-body">
+        <span class="mascot-eye"></span><span class="mascot-smile"></span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="game" class="screen">
+  <div class="sky" aria-hidden="true">
+    <div class="sun"></div><div class="cloud c1"></div><div class="cloud c2"></div>
+    <div class="seabed"></div>
+    <div class="weed"></div><div class="weed"></div><div class="weed"></div><div class="weed"></div>
+    <div class="bubble b1"></div><div class="bubble b2"></div><div class="bubble b3"></div>
+  </div>
+
+  <header class="hud">
+    <div class="pill"><small id="pointsLabel">Points</small><span id="score">0</span></div>
+    <div id="dots" class="dots" aria-label="Progress"></div>
+    <div class="pill"><small id="streakLabel">In a row</small><span id="streak">0</span></div>
+  </header>
+
+  <section id="targetCard" class="target-card">
+    <div id="targetLetter" class="target-letter">ب</div>
+    <div class="target-copy">
+      <small id="instruction">استمع ثم اصطد الحرف الصحيح</small>
+      <strong id="targetName">باء</strong>
+      <span id="targetWord">بيت</span>
+    </div>
+    <button id="speakerBtn" class="speaker" aria-label="Repeat pronunciation">♪</button>
+  </section>
+
+  <div class="water">
+    <div id="fishRow" class="fish-row" aria-label="Letter choices"></div>
+  </div>
+
+  <div id="message" class="message" aria-live="polite"></div>
+  <p id="voiceNote" class="voice-note"></p>
+  <div id="controls" class="controls">← → move • OK catch • ↑ repeat • Back home</div>
+</section>
+
+<section id="result" class="screen">
+  <div class="sky" aria-hidden="true">
+    <div class="sun"></div><div class="cloud c1"></div><div class="cloud c2"></div>
+    <div class="seabed"></div>
+    <div class="weed"></div><div class="weed"></div><div class="weed"></div><div class="weed"></div>
+    <div class="bubble b1"></div><div class="bubble b2"></div><div class="bubble b3"></div>
+  </div>
+  <div class="panel result-panel">
+    <h2 id="resultTitle">ما شاء الله!</h2>
+    <div id="resultStars" class="stars"><i>★</i><i>★</i><i>★</i></div>
+    <p id="resultStats"></p>
+    <div class="btn-row" style="justify-content:center">
+      <button id="againBtn" class="primary">Play Again</button>
+      <button id="homeBtn" class="secondary">Home</button>
+    </div>
+  </div>
+</section>
+
+</main>
+<script src="audio-manifest.js"></script>
+<script src="app.js"></script>
+</body></html>

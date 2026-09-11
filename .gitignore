@@ -1,0 +1,13 @@
+# Build output
+*.wgt
+.tizen-stage/
+
+# Generated at package time by `tizen package`
+signature1.xml
+author-signature.xml
+.manifest.tmp
+
+# Local tooling
+tools/.venv/
+
+.DS_Store
